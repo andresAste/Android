@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView android:id="@+id/concepto" android:text="Gasto" android:layout_width="0dp" android:layout_weight=".10" android:layout_height="wrap_content" />
+    <TextView android:id="@+id/mes" android:text="Enero" android:layout_width="0dp" android:layout_weight=".10" android:layout_height="wrap_content" />
+    <TextView android:id="@+id/fechaVencimiento" android:text="01/01/2015" android:layout_width="0dp" android:layout_weight=".10" android:layout_height="wrap_content" />
+    <TextView android:id="@+id/pagado" android:text="y" android:layout_width="0dp" android:layout_weight=".10" android:layout_height="wrap_content" />
+    <TextView android:id="@+id/importe" android:text="12.45" android:layout_width="0dp" android:layout_weight=".10" android:layout_height="wrap_content" />
+
+</LinearLayout>

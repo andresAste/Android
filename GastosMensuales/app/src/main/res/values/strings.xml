@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gastos Mensuales</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_display_message">My Message</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="urlPlanilla">1yyTcjWA6RAUwkI7sKOevWXAJfpITs__Zb0TwilihDCw</string>
+    <string name="urlPlanillaGastos">1Vn0kkNhGNLLn6hKPVje05hOuebO3vsJ6z-6U6Xf3oCQ</string>
+    <string name="urlAccesoPlanilla">https://spreadsheets.google.com/tq?key=</string>
+</resources>
